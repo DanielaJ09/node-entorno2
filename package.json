@@ -1,0 +1,27 @@
+{
+  "name": "entorno-2",
+  "version": "1.0.0",
+  "description": "entorno 2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielaJ09/node-entorno2.git"
+  },
+  "author": "daniela j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielaJ09/node-entorno2/issues"
+  },
+  "homepage": "https://github.com/DanielaJ09/node-entorno2#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
